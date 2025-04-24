@@ -24,8 +24,10 @@ public class Main {
                         Congratulations!
                         The dragon shares his treasure with you.
                         """;
+                break;
             default:
                 System.out.println("Unvalid option");
+                break;
         }
 
         System.out.println("""
